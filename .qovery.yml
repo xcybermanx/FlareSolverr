@@ -1,0 +1,11 @@
+---
+application:
+  name: "flaresolverr"
+  project: "gxvod"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-flaresolverr"
+  routes:
+  - application_name: "flaresolverr"
+    paths:
+    - "/*"
